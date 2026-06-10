@@ -20,7 +20,9 @@ By predicting the likelihood of default, financial institutions can make better 
 ## Current Project Stage
 
 ✅ Data Collection  
+
 ✅ Exploratory Data Analysis (EDA) 
+
 ✅ Data Cleaning  
 🟨 Feature Engineering  — In Progress  
 ⬜ Model Training  
